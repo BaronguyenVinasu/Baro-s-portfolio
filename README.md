@@ -70,7 +70,7 @@ I had to remove all zero values from budget and revenue columns because they wou
 
 ### References
 
-1. SQL for Businesses by werty.
+1. SQL for Businesses by querty.
 2. [Stack Overflow](https://stack.com)
 
 😄
